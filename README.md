@@ -1,1 +1,0 @@
-# burakkelleroglu.github.io
