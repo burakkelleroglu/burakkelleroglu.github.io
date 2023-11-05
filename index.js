@@ -7,9 +7,9 @@ import {
   Redirect,
 } from 'react-router-dom'
 
-import './style.css'
-import PortfolioSimpleFooter from './views/portfolio-simple-footer'
-import NotFound from './views/not-found'
+import './src/style.css'
+import PortfolioSimpleFooter from './src/views/portfolio-simple-footer'
+import NotFound from './src/views/not-found'
 
 const App = () => {
   return (
