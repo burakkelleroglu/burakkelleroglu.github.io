@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Burak Kelleroglu</title>
-	<atom:link href="/https://burakkelleroglu.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://burakkelleroglu.github.io/</link>
+	<title>Uncategorized &#8211; denemeportfolio</title>
+	<atom:link href="/https://burakkelleroglu.github.io//category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://burakkelleroglu.github.io//</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Nov 2023 11:52:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Nov 2023 13:36:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://burakkelleroglu.github.io/hello-world/</link>
-					<comments>/https://burakkelleroglu.github.io/hello-world/#comments</comments>
+		<link>/https://burakkelleroglu.github.io//hello-world/</link>
+					<comments>/https://burakkelleroglu.github.io//hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[bkelleroglu]]></dc:creator>
-		<pubDate>Wed, 29 Nov 2023 11:52:22 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Wed, 29 Nov 2023 13:36:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://burakkelleroglu.github.io/?p=1</guid>
+		<guid isPermaLink="false">/https://burakkelleroglu.github.io//?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://burakkelleroglu.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://burakkelleroglu.github.io//hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

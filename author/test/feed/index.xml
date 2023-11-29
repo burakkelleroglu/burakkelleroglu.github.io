@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>denemeportfolio</title>
-	<atom:link href="/https://burakkelleroglu.github.io//feed/" rel="self" type="application/rss+xml" />
+	<title>test &#8211; denemeportfolio</title>
+	<atom:link href="/https://burakkelleroglu.github.io//author/test/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://burakkelleroglu.github.io//</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 Nov 2023 13:36:57 +0000</lastBuildDate>
