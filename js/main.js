@@ -279,7 +279,7 @@ $(document).ready(function() {
    		Homepage Text Ticker
    	   ========================================================================== */
     $('.write').typed({
-        strings: ["web designer.", "front end developer.", "coffee drinker."],
+        strings: ["design.", "user experience.", "growth."],
         typeSpeed: 100,
         backSpeed: 50,
         loop:true,
